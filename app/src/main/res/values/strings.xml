@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BitK</string>
+    <string name="response">Response</string>
+    <string name="broadcast">Broadcast</string>
+    <string name="raw_tx_hex">Raw TX HEX</string>
+    <string name="rpc_password">RPC Password</string>
+    <string name="rpc_username">RPC Username</string>
+    <string name="port">PORT</string>
+    <string name="ip_address">IP ADDRESS</string>
+</resources>
