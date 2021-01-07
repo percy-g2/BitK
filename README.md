@@ -15,3 +15,5 @@ Bitcoin config
 
 Download [Bitcoin-S](https://bitcoin-s.org/docs/getting-setup) and config it
 
+
+[![N|Solid](https://raw.githubusercontent.com/percy-g2/BitK/master/screenShots/alphaSS.jpg)]
