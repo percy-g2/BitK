@@ -1,6 +1,6 @@
 # BitK
 
-Download [bitcoin core](https://github.com/bitcoin-s/bitcoin-s) and create a config for testnet as below
+Download [bitcoin core](https://bitcoincore.org/en/download/) and create a config for testnet as below
 
 Bitcoin config
 
