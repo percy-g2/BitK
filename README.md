@@ -8,6 +8,7 @@ Download [Bitcoin-S](https://bitcoin-s.org/docs/getting-setup) and configure it.
 [Bitcoin-s config File](https://raw.githubusercontent.com/percy-g2/BitK/master/config/bitcoin-s.conf)
 
 Do a reverse proxy with nginx for bitcoind and bitcoin-s or bind rpc https://github.com/bitcoin-s/bitcoin-s/pull/2409
+
 [Nginx Proxy Sample File](https://raw.githubusercontent.com/percy-g2/BitK/master/config/defaultNginx.txt)
 
 <p align="left">
