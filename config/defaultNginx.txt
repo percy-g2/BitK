@@ -1,0 +1,19 @@
+server {
+        listen 80 default_server;
+        listen [::]:80 default_server;
+
+        server_name bitcoin-s-test.com;
+        location / {
+                proxy_pass http://localhost:9999/;
+                proxy_set_header Host $host;
+        }
+}
+
+server {
+ listen 8181;
+ listen [::]:8181;
+ server_name bitcoind-test.com;
+      location / {
+      proxy_pass http://localhost:16666/;
+      proxy_set_header Host $host; }
+}
